@@ -1,2 +1,20 @@
-# enterprise-ai-cicd-platform
-this is the repo for project understanding concept enterprise-ai-cicd-platform
+enterprise-ai-cicd-platform/
+│
+├── app/
+│   └── src/
+│
+├── Dockerfile
+├── Jenkinsfile
+├── pom.xml
+├── nginx/
+│   └── nginx.conf
+│
+├── prometheus/
+│   └── prometheus.yml
+│
+├── scripts/
+│   ├── deploy.sh
+│   └── cleanup.sh
+│
+└── README.md
+
